@@ -1,6 +1,6 @@
 module HotCold
 
-go 1.19
+go 1.18
 
 require github.com/897243839/Compress v0.0.0-20230402070102-d66239bdcedd
 
