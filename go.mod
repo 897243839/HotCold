@@ -1,4 +1,4 @@
-module HotCold
+module github.com/897243839/HotCold
 
 go 1.18
 
