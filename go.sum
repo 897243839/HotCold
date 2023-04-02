@@ -1,5 +1,5 @@
-github.com/897243839/Compress v0.0.0-20230402070102-d66239bdcedd h1:YgVJQjGNkY7SaYbd1QcU8JuLgxgUOo1QDg0Lw6/5i5I=
-github.com/897243839/Compress v0.0.0-20230402070102-d66239bdcedd/go.mod h1:JShtsliMWxIEd6pZQh5HJ0qSmuT5u+BbND1fcsbgypg=
+github.com/897243839/Compress v0.0.0-20230402081651-b8bddcdf6e82 h1:s2KYImRfu2MMFzDBhdN5v85Po7PPpAcXNYF/4OOzf5s=
+github.com/897243839/Compress v0.0.0-20230402081651-b8bddcdf6e82/go.mod h1:JShtsliMWxIEd6pZQh5HJ0qSmuT5u+BbND1fcsbgypg=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/frankban/quicktest v1.14.4 h1:g2rn0vABPOOXmZUj+vbmUp0lPoXEMuhTpIluN0XL9UY=
 github.com/frankban/quicktest v1.14.4/go.mod h1:4ptaffx2x8+WTWXmUCuVU6aPUX1/Mz7zb5vbUoiM6w0=
