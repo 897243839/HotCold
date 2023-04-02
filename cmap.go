@@ -1,4 +1,4 @@
-package hotclod
+package HotCold
 
 import (
 	"encoding/json"
