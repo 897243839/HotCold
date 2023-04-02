@@ -35,10 +35,6 @@ var cb = func(exists bool, valueInMap int, newValue int) int {
 }
 var ps = &Datastore{}
 
-func putfs(fs *Datastore) {
-	ps = fs
-}
-
 //	func init() {
 //		go func() {
 //			for {
