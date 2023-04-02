@@ -72,7 +72,38 @@ func putfs(fs *Datastore) {
 //
 //		}()
 //	}
-
+func Lens() {
+	go func() {
+		for {
+			select {
+			case <-ticker.C:
+				Pr()
+				//default:
+			}
+		}
+	}()
+	//go func() {
+	//	for  {
+	//		select {
+	//		case <-ticker1.C:
+	//			for key,v:=range maphot.Items(){
+	//				if v<=9{
+	//					dir := filepath.Join(ps.path, ps.getDir(key))
+	//					file := filepath.Join(dir, key+extension)
+	//					ps.Get_writer(dir,file)
+	//					maphot.Remove(key)
+	//					mapw:=maphot.Items()
+	//					ps.WriteBlockhotFile(mapw,true)
+	//				}else {
+	//					maphot.Set(key,1)
+	//				}
+	//			}
+	//			fmt.Println("更新本地热数据表成功")
+	//		}
+	//	}
+	//
+	//}()
+}
 func Updatemaphot() {
 
 	for key, v := range maphot.Items() {
